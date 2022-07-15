@@ -7,4 +7,4 @@ const pool = new Pool({
     database: "oroz" // изыините тут я написал своего имя на датабазу
 });
 //тут мы здесь настроим базаданных чтобы подключать на базаданных
-module.exports = pool
+module.exports = pool;
